@@ -6,7 +6,6 @@ import './Movies.css'
 import MovieSearch from './MovieSearch'
 import MovieCharacter from './MovieCharacterGrid'
 
-
 const Movies = () => {
 
    const [items, setItems] = useState([])
