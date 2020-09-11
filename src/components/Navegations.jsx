@@ -21,25 +21,6 @@ const Navegation = () => {
       leave: { opacity: 0, transform: 'translateX(-100%)' },
    })
 
-   // let show
-   // let showOverlay
-
-   // if (showMenu) {
-     
-   //    show = 
-   //       <div className="fixed bg-white top-0 left-0 w-2/5 h-full z-50 shadow">
-   //          Joder asi funciona   
-   //       </div>
-
-   //    showOverlay = 
-   //       <div 
-   //          className="bg-black-t-50 fixed top-0 left-0 w-full h-full"
-   //          onClick={() => setShowMenu(false)}
-   //       >
-   //          joder
-   //       </div>
-   // }
-
    return (
       <nav className="">
          <span className="text-2xl z-100">

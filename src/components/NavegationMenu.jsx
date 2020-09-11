@@ -7,7 +7,7 @@ const NavegationMenu = (props) => {
       <ul>
          <NavegationItems close={props.closeMenu} link="Home"/>
          <NavegationItems close={props.closeMenu} link="About"/>
-         <NavegationItems close={props.closeMenu} link="Services"/>
+         <NavegationItems close={props.closeMenu} link="Products"/>
          <NavegationItems close={props.closeMenu} link="Contact"/>
          <NavegationItems close={props.closeMenu} link="Movies"/>
       </ul>
